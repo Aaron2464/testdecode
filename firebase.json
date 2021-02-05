@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "site": "test-e23ab"
+    "site": "test-e23ab",
     "public": "public",
     "ignore": [
       "firebase.json",
