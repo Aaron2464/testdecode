@@ -4,17 +4,11 @@
   },
   "hosting": {
     "site": "test-e23ab",
-    "public": "public",
+    "public": "web",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
